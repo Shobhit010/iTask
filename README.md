@@ -1,4 +1,4 @@
-# iTask ✅
+# iTask 📋
 
 **iTask** is a lightweight and intuitive task management web application built with React and Vite. It helps users organize their daily to-dos and improve productivity through a clean, responsive, and fast user interface.
 
